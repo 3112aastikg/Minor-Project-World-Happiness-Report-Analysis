@@ -1,0 +1,14 @@
+hardcoded part one part:
+it displays most happiest for the ordinal number consecutive year in the region like: 
+South Asia for least happiest
+Western Europe for most happiest
+Otherwise, no other hardcoding error, which was all sorted
+
+ML model can only predict for 118 countries since they have data for all 10 years and the country name is the same
+ML model cannot predict for the ones which are not in every single dataset
+
+Other minor errors:
+Like moderately higher used for regional and higher used for worldwide, which means the same thing in that criteria
+R^2 score not specified like 0 and 1 it is supposed to be between
+missing markdown line in some sections 
+excel sheet error with some coutry data having star on them, which is making them a separate country while they are the same one, and names are making them separate ones a lot
